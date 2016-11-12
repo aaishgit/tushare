@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="startvid"
+        android:title="Play animation on startup"
+        android:defaultValue="false"></CheckBoxPreference>
+    <EditTextPreference
+        android:key="downloc"
+        android:title="Download Location"
+        android:summary="sets the location where files will be downloaded"></EditTextPreference>
+</PreferenceScreen>

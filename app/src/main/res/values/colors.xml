@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0594e1</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#0594e1</color>
+    <color name="bgColor">#0594e1</color>
+    <color name="scriptColor">#f2c2d2</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffff</color>
+    <color name="pink">#e4336a</color>
+    <color name="signinbg">#7f21b1</color>
+    <color name="regbg">#049619</color>
+    <color name="verifybg">#c01010</color>
+    <color name="selected">#e4e4e4</color>
+    <color name="sliderbg">#f7f8f9</color>
+    <color name="statuscolor">#035c8c</color>
+    <array name="dot_colors">
+        <item>#03A9F4</item>
+        <item>#E65100</item>
+        <item>#FFBB00</item>
+        <item>#6fce21</item>
+    </array>
+</resources>
